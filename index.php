@@ -5,8 +5,7 @@
 
             <!-- Blog Entries Column -->
             <div class="col-md-8">
-<h1>Hello World</h1>
-// this added comment 
+ 
     
             
           
